@@ -1,4 +1,4 @@
-# Syllabus: ATMS 391 Advanced Geophysical Data Analysis
+# Syllabus: ATMS 305 Computing and Data Analysis (Spring 2017)
 
 ## Instructor
 Associate Professor Steve Nesbitt
@@ -7,33 +7,48 @@ Office: 203 Atmospheric Sciences Building (105 S. Gregory St., Urbana)
 
 Phone: (217) 244-3740
 
-E-mail: snesbitt at illinois.edu
+E-mail: [snesbitt@illinois.edu](mailto:snesbitt@illinois.edu)
 
-Office hours: Thursdays 12 pm-1 pm, Fridays 11 am-12pm or by appointment (bring your lunch if you want), 203 Atmospheric Sciences Building
+Web site: [Cloud Systems Research Group](http://publish.illinois.edu/snesbitt)
+
+Office hours: Thursday, 11:00 AM-12:00 PM, Room 203 Atmospheric Sciences Building
 
 ## Teaching assistant
-Jian Tian
+Andrew Huang
 
-Office: 214 Atmospheric Sciences Building
+Office: 213 Atmospheric Sciences Building
 
-E-mail: jtian4 at illinois.edu
+E-mail: [ahuang11@illinois.edu](mailto:ahuang11@illinois.edu)
 
-Office hours: Monday 3 pm - 5 pm, 214 Atmospheric Sciences Building
+Office hours: Friday, 1:00 PM-3:00 PM, Room 100 Atmospheric Sciences Building (Synoptic Lab)
+
+## Course web site
+[http://www.github.com/swnesbitt/ATMS-305](http://www.github.com/swnesbitt/ATMS-305)
 
 ## Course schedule
-Tuesday and Thursday, 08:00-09:20, Foreign Languages Building G27
+Monday and Wednesday, 09:30 AM-10:50 PM, Foreign Languages Building G8A
 
 ## Course description
 
-Course focuses on the analysis of geophysical data sets using advanced statistical techniques. Students use computer languages such as Python and Fortran, and will acquire skills to analyze big data using advanced analytics and data formats such as netCDF.
+This course focuses on the analysis of geophysical data sets using modern computing tools and advanced statistical techniques. Students learn to use unix as a computing platform, and use computer languages such as Python, and will acquire skills to large datasets with advanced analytics, and use data formats such as netCDF and HDF.
 
 ## Textbooks
+
+###Required Text
+
+*Python Programming and Visualization for Scientists* by A. DeCaria. Available in the bookstore or for purchase online (link to [publisher](http://www.sundogpublishing.com/shop/python-programming-and-visualization-for-scientists-alex-decaria/)).
+
+Our book has some corrections, which are available for download [here](http://www.sundogpublishing.com/PythonErrata.pdf).
+
+###Reference Texts (all are available as free E-Books through the University Library)
 
 **Note: to access these books, you will need to be on campus or be connected to the Campus VPN under "Tunnel All"**
 
 *Statistical Methods in the Atmospheric Sciences, Third edition* by D. S. Wilks. [Available as an e-book](http://www.library.uiuc.edu/proxy/go.php?url=http://www.sciencedirect.com/science/book/9780123850225)
 
-*An Introduction to Statistical Learning* by G. James, D. Witten, T. Hastie, and R. Tibshirani. [Available as an e-book](http://www-bcf.usc.edu/~gareth/ISL/ISLR First Printing.pdf)
+*An Introduction to Statistical Learning* by G. James, D. Witten, T. Hastie, and R. Tibshirani. [Available as an e-book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+
+*Data Science from Scratch* by J. Grus. [Available as an e-book](http://proquest.safaribooksonline.com/9781491901410)
 
 *MATLAB Recipies for Earth Sciences, Fourth edition* by M. H. Trauth. [Available as an e-book](http://link.springer.com.proxy2.library.illinois.edu/book/10.1007/978-3-662-46244-7)
 
@@ -49,53 +64,65 @@ Course focuses on the analysis of geophysical data sets using advanced statistic
 
 ## Course schedule each week
 
-This course will be taught in a *flipped classroom* style of learning.  Lectures will be brief at the beginning of class, and will be meant primarily to orient the student to resources available in texts, online, and in each laboratory assignment.  Each week we will spend most of the remaining time in class working on laboratory assignments in a *think, pair, share* environment, where problems and questions will be discussed interactively during the class period.  On Thursday, 15 minutes prior to the end of class we will have a short Compass online quiz to *assess* student learning on the topic investigated in the laboratory each week.  Lab assignments will be assigned each Tuesday and due at 8 am the Tuesday following the class the lab is assigned.
+This course will be taught in a *flipped classroom* style of learning.  Lectures will be approximately 30 minutes at the beginning of class, and will be meant primarily to orient the student to resources available in texts, online, and in each laboratory assignment.  Each week we will spend most of the remaining time in class working on laboratory assignments in a *think, pair, share* environment, where problems and questions will be discussed interactively during the class period.  On Thursday, 15 minutes prior to the end of class we will have a short Compass online quiz to *assess* student learning on the topic investigated in the laboratory each week.  Lab assignments will be assigned each Monday and due at 5 pm the Monday following the class the lab is assigned.
 
 ## Grading, quizzes, and exams
 
 The course will be graded as a weighted average: 60% will be the average of assignments, 30% for quizzes, and 10% for the final exam.  The lowest quiz score will be dropped.
 
-Quizzes will be 10-question multiple choice, closed book, and administered online.  If you miss a quiz due to an unexcused absence, you will earn a 0.
+Quizzes will be 10-question multiple choice, closed book, and administered online.  If you miss a quiz due to an unexcused absence, you will earn a 0.  However, makeup quizzes need to be scheduled with the Instructor.
 
-The final exam will be 8:00-11:00 a.m., Thursday, December 17.  A makeup exam time may be scheduled if there is a conflict with another exam.
+The final exam will be 7:00-10:00 p.m., Friday, May 5.  A makeup exam time may be scheduled if there is a conflict with another exam.
 
 You are encouraged to work together on assignments, but work must be performed and submitted independently.  Plagarism or cheating on quizzes and the final exam will be handled according to the [Student Code](http://admin.illinois.edu/policy/code/article1_part4_1-402.html).
 
 ## Attendance policy
 
-You are highly encouraged to attend classes, however, I will not take attendance.  On Thursdays you need to be in class to take the quizzes, which will begin promptly at 9:05 am.  Makeup quizzes and final exam will only be granted in cases of medical, personal emergencies, or academic activity conflicts (i.e. job interviews, university sports, etc.).  If you know you will miss class, let me and the TA know as soon as possible.
+You are highly encouraged to attend classes, however, I will not take attendance.  On Wednesdays you need to be in class to take the quizzes, unless you have an emergency.  Makeup quizzes and final exam will only be granted in cases of medical, personal emergencies, or academic activity conflicts (i.e. job interviews, university sports, etc.).  If you know you will miss class, let me and the TA know via e-mail as soon as possible.
 
 ## Computer lab policy
 
-Food and open top drinks are not allowed in our computer classrooms. In addition to the potential damage caused to our equipment, this can create an unsanitary environment and attract insects. Bringing food and drinks without lids may result in a minimum fee of $50 to your department to cover labor and equipment costs.  I will send Bob Rauber after the offender to recoup the costs to the department.  :)
+*From the College:* Food and open top drinks are not allowed in our computer classrooms. In addition to the potential damage caused to our equipment, this can create an unsanitary environment and attract insects. Bringing food and drinks without lids may result in a minimum fee of $50 to your department to cover labor and equipment costs.
 
 ## Course outline
 
-1. [**Aug 25**] Introduction to python, using python in the course, installing python on your own computer, my first python program, ipython notebook, git basics, unix basics.  
+1. [**Jan 18**] Course logistics. Keeling introduction. Using your own computer for this course.  Using the Illinois CITES VPN.
 
-1. [**Sep 1**] Scripting basics.  Debugging strategies.    
+1. [**Jan 23, Jan 25**] Introduction to `unix`, handling, and editing files.
 
-1. [**Sep 8, Sep 15**] Reading and writing data in python, basic data structures, data reduction.  Introduction to `numpy`.
+1. [**Jan 30, Feb 1**] Shell scripting in the `bash` shell, github. Introduction to python and ipython. Basic variable types.
 
-1. [**Sep 22, Sep 29**] Plotting using `matplotlib`.  
+1. [**Feb 6, Feb 8**] Flow control (if, while), loops, functions, modules. (DeCaria Chapters 2 and 5)
 
-1. [**Oct 6**] Geospatial calculations and mapping with `Basemap`.  Python as a GIS platform.
+1. [**Feb 13, Feb 15**] Working with data in python, part 1: Text. (DeCaria Chapter 3, 8)
 
-1. [**Oct 13**] Introduction to statistical learning.  Empirical and theoretical data distributions.  
+1. [**Feb 13, Feb 15**] Working with data in python, part 2: Numerical Python (`numpy`). Introduction to arrays. (DeCaria Chapter 7)
 
-1. [**Oct 20**] Error measurement, statistical significance and testing. *t*-test and Chi-square test.
+1. [**Feb 20, Feb 22**] Working with data in python, part 3: Organizing and querying data with `pandas`.
 
-1. [**Oct 27**] Linear regression. Correlation coefficient.
+1. [**Feb 27, Mar 1**] Visualising data with `matplotlib`. (DeCaria Chapter 10-12)
 
-1. [**Nov 3, Nov 10**] Unsupervised learning. Principal component analysis.
+1. [**Mar 6, Mar 8**] Reading and writing `NetCDF` data.  Plotting with `Basemap`.  Working with local and remote data. (DeCaria Chapter 13, 14)
 
-1. [**Nov 17**] Image processing.  **Nov 24, Thanksgiving Break -- No classes**
+1. [**Mar 13, Mar 15**] Working with arrays, time, and space.***
 
-1. [**Dec 1**] More image processing.
+1. **Spring Break** March 20-24
 
-1. [**Dec 8**] Scaling up to big data. No class Dec 10, no quiz.
+1. [**Mar 27, Mar 29**] Probability theory. (Wilks Chapter 2)
 
-Possible additional topics: Classification, Linear and non-linear models, clustering, support vector machines.
+1. [**May 3, May 5**] Exploratory data analysis. (Wilks Chapter 3)
+
+1. [**Apr 10, Apr 12**] Probability distributions. (Wilks Chapter 4)
+
+1. [**Apr 17, Apr 19**] Hypothesis testing. (Wilks Chapter 5)
+
+1. [**Apr 24, Apr 26**] Quantitative image analysis using `scikit-image`
+
+1. [**May 1, May 3**] Classification. (Wilks Chapter 13).
+
+***Steve N. will be out of town at a Department of Energy Meeting 1 or 2 days that week.  Andrew H. will be the instructor.
+
+***Class may be postponed, cancelled, or presented by Andrew H. at short notice as Steve N.'s wife is expecting in April.  A notification will be sent out via e-mail.
 
 ## Information for students with disabilities
-Disability Accommodations -To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to [disability@illinois.edu](mailto:disability@illinois.edu).
+Disability Accommodations: to obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to [disability@illinois.edu](mailto:disability@illinois.edu).
